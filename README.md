@@ -3,7 +3,7 @@ The o7 orthosis created for MIT's CRE[AT]E Challenge.
 
 # Temperature Monitor
 
-Webpage for graphical UI of temperature from Raspberry Pi Picoi
+Webpage for graphical UI of temperature from Raspberry Pi Pico
 
 ## Requirements
 
